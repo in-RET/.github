@@ -1,1 +1,1 @@
-# In.RET Institut für regenerative Energietechnik
+# In.RET Institut für Regenerative Energietechnik
