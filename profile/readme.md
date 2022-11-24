@@ -1,2 +1,2 @@
 # In.RET Institut für Regenerative Energietechnik
-Das in.RET bündelt die vorhandenen fachlichen Ressourcen und ermöglicht so eine profilierte Außendarstellung des Forschungs- und Lehrschwerpunktes "Regenerative Energietechnik" an der Hochschule Nordhausen.
+The in.RET bundles the renewable energy activities and technical resources. Thus enables a profiled external presentation of the research and teaching focus Renewable Energy Technology at the Nordhausen University of Applied Sciences.
